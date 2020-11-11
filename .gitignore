@@ -2,6 +2,7 @@
 
 # IDEs and editors
 .vs/
+.vscode/
 .idea/
 
 # User-specific files
