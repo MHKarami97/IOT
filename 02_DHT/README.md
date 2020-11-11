@@ -16,7 +16,7 @@ const data = {
 
 **🌞 Picture** 
 
-<p><img src="../images/img1.jpg" width="500"></p>
+<p><img src="https://raw.githubusercontent.com/MHKarami97/IOT/master/02_DHT/images/img1.jpg" width="500"></p>
 ---
 
 **🌞 Info** 
